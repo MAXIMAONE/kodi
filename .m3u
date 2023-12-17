@@ -12,13 +12,6 @@ http://45.179.140.242:8000/play/a0l9
 http://181.78.105.146:6060/play/a00l
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://w7.pngwing.com/pngs/976/630/png-transparent-hbo-logo-silver.png"
 http://181.78.105.146:6060/play/a00h
-
-NUEVO01GITHUB
-
-///////////////////////////////////////////////////////////////
-
-#EXTM3U
-
 #EXTINF:-1 tvg-id="Universal Channel" tvg-logo="https://logowik.com/content/uploads/images/405_universalchannel.jpg"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169801.ts
 #EXTINF:-1 tvg-id="CHAMPIONS" tvg-logo="https://i.ibb.co/BsSh7zP/HJIKOPL-JKL.jpg"
@@ -183,12 +176,6 @@ https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169789.ts
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/172793.ts
 #EXTINF:-1 tvg-id="DE PELICULA CLASICO" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169835
-
-IPTV 16-12/////////////////////////////////////////////////
-
-
-#EXTM3U
-
 #EXTINF:-1 tvg-id=" BEIN SPORTS2" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
 https://linear-256.frequency.stream/dist/vix/dist/vix/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id=" AMC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png"
@@ -243,11 +230,6 @@ http://45.166.92.22:58001/play/a01m/index.m3u8
 http://45.166.92.22:58001/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="DE PELICULA" tvg-logo="https://pbs.twimg.com/profile_images/1352654088824102912/T-yulvxI_400x400.jpg"
 http://181.78.105.146:2000/play/a090/index.m3u8
-
-REGIO0016////////////////////////////////////////////////////////////
-
-#EXTM3U
-
 #EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno (720p) [Geo-blocked]
@@ -297,6 +279,6 @@ https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 
 
 
-768769a  MX
+
 
 
