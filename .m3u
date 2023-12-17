@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg"
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id=" LA ROSA DE GUADALUP" tvg-logo="https://i.ibb.co/RNz5K5S/st1-uvnimg.jpg"
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png"
+http://45.179.140.242:8000/play/a0la
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png"
+http://45.179.140.242:8000/play/a0l9
+#EXTINF:-1 tvg-id="HBO Xtreme USA" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png"
+http://181.78.105.146:6060/play/a00l
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://w7.pngwing.com/pngs/976/630/png-transparent-hbo-logo-silver.png"
+http://181.78.105.146:6060/play/a00h
+
+
+NUEVO01
