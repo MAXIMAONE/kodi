@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="Universal Channel" tvg-logo="https://logowik.com/content/uploads/images/405_universalchannel.jpg"
 https://castlempire.site:443/23CAMILO004/2gX6jTGw48/169801.ts
 #EXTINF:-1 tvg-id="CHAMPIONS" tvg-logo="https://i.ibb.co/BsSh7zP/HJIKOPL-JKL.jpg"
